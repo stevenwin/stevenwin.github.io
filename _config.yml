@@ -1,4 +1,4 @@
 encoding: utf-8
 
 # Conversion
-highlighter: rouge
+highlighter: pygments
