@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Jekyll Test
+tags: test programming
 ---
 
 <h1>Steve is the Best</h1>
