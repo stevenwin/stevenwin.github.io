@@ -1,13 +1,13 @@
-# Dependencies
-markdown:         rdiscount
-highlighter:      pygments
- 
-# Permalinks
-permalink:        pretty
- 
-# Server
-destination:      _gh_pages
-host:             0.0.0.0
-port:             9001
-baseurl:          /
-encoding:         UTF-8
+markdown: redcarpet
+highlighter: null
+permalink: /:title
+
+url: http://stevenwin.github.io/
+baseurl:
+
+redcarpet:
+  extensions: [strikethrough, tables]
+
+sass:
+  sass_dir: public/css
+  style: :compressed

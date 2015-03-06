@@ -1,42 +1,35 @@
 <!DOCTYPE html>
-<!--[if IE 8 ]>
-<html id="ie8" lang="en-US">
-<![endif]-->
-<!--[if (gt IE 9)|!(IE)]><!--><html lang="en-US"><!--<![endif]-->
-{% include head.html %}
+<html>
+  <head>
+    {% include head.html %}
+  </head>
+  <body>
+    <div class="container azul">
+      <header class="top row gutters{% if page.title == "Home" %} fadeInLeft animated{% endif %}">
+        <div class="col span_2 center">
+          <!-- TODO: add baseurl to the logo link -->
+          <a href="{{ site.url }}" id="logo" title="{{ site.data.brume.name }}"
+             style="background-image: url({{site.baseurl}}/public/images/logo.png);"></a>
+        </div>
+        {% include navigation.html %}
+      </header>
 
-<body class="home page">
+      {{ content }}
 
-{% include header.html %}
-<div class="container">
+      <footer>
+        <p>
+          <p>&copy;2015&nbsp;<a href="#">StevenWin</a></p>
+        </p>
+      </footer>
+    </div>
 
-    <div class="blog-header">
-        <h1 class="blog-title">
-            <a href="#" title="StevenWin" rel="home">StevenWin</a>
-        </h1>
-        <p class="lead blog-description">Test Description for Jekyll</p>
-    </div> <!-- /.blog-header -->
-
-    <div class="row">
-
-        <section class="col-sm-8 blog-main">
-
-            <article class="blog-post ">
-                <h1 class="blog-post-title">{{ page.title }}</h1>
-
-                <div class="blog-content">
-                    {{ content }}
-                </div><!-- /.blog-content -->
-
-            </article><!-- /.blog-post -->
-
-        </section><!-- /.blog-main -->
-
-        {% include sidebar.html %}
-
-    </div><!-- /.row -->
-</div><!-- /.container -->
-
-{% include footer.html %}
-
-</body>
+    <!-- scripts -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="{{site.baseurl}}/public/js/jquery.fitvids.js"></script>
+    <script>
+      $(document).ready(function(){
+        $("article").fitVids();
+      });
+    </script>
+  </body>
+</html>
