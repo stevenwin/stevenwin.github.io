@@ -5,8 +5,13 @@ title: Categories
 
 Cat
 
+
+<h1>{{ page.tag }}</h1>
+
 <ul>
-  {% for tags in page.tags %}
-    <li>{{ tags }}</li>
-  {% endfor %}
+{% for post in site.tags[page.tag] %}
+  <li>
+    {{ post.date | date: "%B %d, %Y" }}: <a href="{{ post.url }}">{{ post.title }}</a>
+  </li>
+{% endfor %}
 </ul>
