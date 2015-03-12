@@ -1,11 +1,7 @@
 ---
 layout: page
-title: Categories
 tag: programming
 ---
-
-Cat
-
 
 <h1>{{ page.tag }}</h1>
 
