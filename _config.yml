@@ -1,9 +1,9 @@
 markdown: redcarpet
-highlighter: pygments
+highlighter: null
 permalink: /:title
 
 url: http://stevenwin.github.io/
-baseurl:
+baseurl: http://stevenwin.github.io/
 
 redcarpet:
   extensions: [strikethrough, tables]
