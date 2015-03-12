@@ -147,7 +147,6 @@ footer {
 }
 
 .container {
-  max-width: 750px;
   padding: 0 20px;
   min-height: 100%;
 }
@@ -202,8 +201,7 @@ footer {
 .single {
   margin-bottom: 100px;
   padding-bottom: 100px;
-  position: relative;
-  min-height: 100%;
+  width: 750px;
 }
 
 .single {
