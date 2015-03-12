@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Categories
-tags: Programming
+tags: programming
 ---
 
 Cat
