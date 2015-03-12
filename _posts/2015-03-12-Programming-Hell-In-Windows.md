@@ -1,8 +1,4 @@
 ---
-published: false
----
-
----
 layout: post
 tag: programming
 title: Progamming Hell in Windows
