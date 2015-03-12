@@ -41,7 +41,6 @@
 	Set bottom padding according to preference */
 .row { 
 	padding-bottom: 0em;
-	width: 750px;
 	margin: auto;
 }
 			
