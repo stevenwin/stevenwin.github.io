@@ -19,8 +19,7 @@
 
 /*	MAIN CONTAINER 
 	Set the width to whatever you want the width of your site to be. */
-.container { 
-	width: 800px;
+.container {
 	margin: 0 auto; 
 }
 
