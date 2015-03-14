@@ -1,6 +1,6 @@
 ---
 layout: page
-tag: programming books
+tags: programming books
 ---
 
 <h1>{{ page.tag }}</h1>
