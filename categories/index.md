@@ -10,7 +10,7 @@ tag: programming books
 {{ t | downcase }}
 <ul>
 {% for post in posts %}
-  {% if post.tags contains t %}
+  {% if post.tag contains t %}
   <li>
     <a href="{{ post.url }}">{{ post.title }}</a>
     <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span>
