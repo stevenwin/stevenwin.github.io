@@ -1,7 +1,7 @@
 ---
 layout: post
 tag: programming
-title: Learn to Programsdkjfsd, Program to Learn
+title: Learn to Program, Program to Learn
 ---
 **DRAFT**
 
