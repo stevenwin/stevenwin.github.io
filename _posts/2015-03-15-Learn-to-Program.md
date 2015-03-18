@@ -5,6 +5,4 @@ title: Learn to Program, Program to Learn
 ---
 **DRAFT**
 
-The allure of programming stems from my love for puzzles and games, and also for the my need for an outlet of creativity.  I believe fulfillment in life is rooted in our abilities to create value in some form for others.
-
-Programming allows me to create applications from scratch by solving puzzle-like problems..
+The Blog layout I'm using is from a Jekyll Theme called Brume.  I really like it.  It's simple enough that it gives succinct information in a pleasant way.  I want to use it longer but I think a better way, value-wise, is to build my own.  That way, I can learn about the Jekyll framework and Liquid templating language.
