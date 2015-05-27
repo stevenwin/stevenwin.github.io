@@ -2,6 +2,7 @@
 layout: post
 tag: personal
 title: Tadpoles and Bowser at Harrison
+img: /img/tree-life.jpg
 ---
 
 This past weekend was met with wonderment and bliss down at Harrison Hot Springs.  My girlfriend and I made an impromptu camping trip 20 minutes past the resort at Hicks Lake.  The camping was great but the time spent the day after at Harrison is one of my favourite events ever -- and it almost didn't happen.
@@ -10,4 +11,4 @@ The day after our camping stay at Hicks lake we woke up tired from a semi-restle
 
 As we pulled up to the parking lot, the nausea from the veggie was starting to kick in.  I started to doubt the the decision and felt like I was going to be sick for the remainder of the day.  We pulled out our lawn chairs and meandered across the beach towards a single bench overlooking a serene landscape.  The moments after were filled with bliss, introspection and relief.  It was one of the best days of my life.
 
-![tree-of-life](/img/tree-life.jpg)
+<img src="{{ page.image }}" />
