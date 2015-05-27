@@ -2,7 +2,7 @@
 layout: post
 tag: personal
 title: Tadpoles and Bowser at Harrison
-img: /img/tree_life.jpg
+image: /img/tree_life.jpg
 ---
 
 This past weekend was met with wonderment and bliss down at Harrison Hot Springs.  My girlfriend and I made an impromptu camping trip 20 minutes past the resort at Hicks Lake.  The camping was great but the time spent the day after at Harrison is one of my favourite events ever -- and it almost didn't happen.
