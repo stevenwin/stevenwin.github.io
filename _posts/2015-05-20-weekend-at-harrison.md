@@ -10,4 +10,4 @@ The day after our camping stay at Hicks lake we woke up tired from a semi-restle
 
 As we pulled up to the parking lot, the nausea started to set in.  I began to doubt the decision and felt like I was going to be sick for the remainder of the day.  We pulled out our lawn chairs and meandered across the beach towards a single bench overlooking a serene landscape.  The moments after were filled with bliss, introspection and relief.  It was one of the best days of my life.
 
-![Tree of life]({{ site.url }}/img/harrison/tree_life.jpg)
+![Tree of life]({{ site.url }}/img/harrison/tree_life_cropped.jpg)
