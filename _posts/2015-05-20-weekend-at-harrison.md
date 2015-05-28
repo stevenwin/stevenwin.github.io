@@ -4,10 +4,8 @@ tag: personal
 title: Tadpoles and Bowser at Harrison
 ---
 
-This past weekend was met with wonderment and bliss down at Harrison Hot Springs.  My girlfriend and I made an impromptu camping trip 20 minutes past the resort at Hicks Lake.  The camping was great but the time spent the day after at Harrison is one of my favourite events ever -- and it almost didn't happen.
+As we pulled up to the parking lot, the nausea settled in.  Mindful of the experience to come, we meandered across the beach towards a single bench overlooking a serene landscape.  I knew this would be our base and I let my companion loose to enjoy her rocks and aqua Nirvana.  Sitting perfectly between shadow and light, the heat from the sun balanced itself with the soothing breeze.
 
-The day after our camping stay at Hicks lake we woke up tired from a semi-restless night.  I didn't feel like we'd have enough time to spend at Harrison because I needed to trek the 2.5 hours back home and start preparing for my work week ahead.  After a bit of time cleaning up and enjoying the scenery at Hicks, I changed my mind and decided we should at least walk around Harrison since we're already close by.  Impulsively, my girlfriend suggested we ingest some Teachers and wander the beach.  Fantastic idea.
-
-As we pulled up to the parking lot, the nausea started to set in.  I began to doubt the decision and felt like I was going to be sick for the remainder of the day.  We pulled out our lawn chairs and meandered across the beach towards a single bench overlooking a serene landscape.  The moments after were filled with bliss, introspection and relief.  It was one of the best days of my life.
+In our mind's eye, this was our little secret.  The tadpoles gleamed iridescently across the waves and the clouds slowly dispersed into a hundred tiny Bowsers.  Not a single thought that arose were of troubles.  Misery did not thrive in this timeless spot.  I closed my eyes and let bliss envelop my being.
 
 ![Tree of life]({{ site.url }}/img/harrison/tree_life_cropped.jpg)
