@@ -10,13 +10,15 @@ I'm entering my thirties in a couple of weeks and looking back, it's almost as i
 
 Now, almost a decade later, I'm much more humble about my outlook on life.  I now understand that goals aren't meant to be reached.  Goals are supposed to be lofty yet realistic.  They're meant to be just out of reach where it can be used as a benchmark for your current self.
 
-My short term goals:
+## My short term goals:
+
 - Finish my web scraping project
 - Finish my video editing project for a friend's wedding
 - Finish my itinerary for my Vietnam backpacking trip in a couple of months
 - Enrol in Jiu Jitsu
 
-My long term goals:
+## My long term goals:
+
 - Become a competent web developer or data analyzer
 - Become a Jiu Jitsu black belt
 - Become a savvy video editor

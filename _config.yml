@@ -1,5 +1,5 @@
 markdown: kramdown
-highlighter: pygments
+highlighter: rogue
 permalink: /:title
 
 url: http://stevenwin.github.io/
