@@ -4,8 +4,6 @@ tag: personal
 title: Tranquility inside the Still Mind
 ---
 
-*DRAFT*
-
 I was recently introduced to the book **Mindfulness in Plain English**, which has given me a boost in attempting a meditation habit.  I'm only on day 3, yet I feel refreshed after each session (maybe cause I'm sleeping a bit in between them..?).
 
 Meditation is a strange thing.  I've heard of benefits from friends and have read articles on how real positive change can happen in the brain, however, the act of meditating still feels as though you're not doing much at all.  But that's the point.  Meditation is supposed to calm the brain and allow yourself to just be an observer of your thoughts and feelings.  It's a difficult discipline to master because sitting in silence for even a moment is not something many of us are used to.  If it weren't for this book, and particularly this passage below, I'd probably have given up after the first day due to boredom:
