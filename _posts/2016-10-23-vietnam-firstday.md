@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: personal, travel
+tag: personal travel
 title: Vietnam -- First Impressions
 ---
 
