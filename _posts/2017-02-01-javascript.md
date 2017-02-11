@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: personal
+tag: programming
 title: JavaScript Hell
 ---
 
