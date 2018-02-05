@@ -1,9 +1,9 @@
 markdown: kramdown
-highlighter: rouge
+highlighter: null
 permalink: /:title
 
-url: http://stevenwin.github.io/
-baseurl: http://stevenwin.github.io/
+url: www.stevenwin.com
+baseurl: 
 
 redcarpet:
   extensions: [strikethrough, tables]
