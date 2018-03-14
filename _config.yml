@@ -2,7 +2,7 @@ markdown: kramdown
 highlighter: null
 permalink: /:title
 
-url: www.stevenwin.com
+url:
 baseurl: 
 
 redcarpet:
