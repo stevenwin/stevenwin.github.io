@@ -12,6 +12,8 @@ Transmission Bangkok debuted in 2017 and made its return this year.  The theme t
 
 And it was.
 
+![transmission]({{ site.url }}/img/transmission.jpg)
+
 My friend told me to meet at the BITEC stadium in Bangkok at 6pm.  When I arrived, I was a bit disoriented as it was a huge stadium with multiple entrances.  I followed their instruction and found my way to the group.  It was a large group.  I immediately felt awkward to be among strangers, in a strange land, at a strange event.  The thought of myself soon taking the supplements among this uncomfortable situation made me apprehensive.  But, fortune favours the brave (famous last words) and I put aside my moment of hesitancy and dove head first into the wild side.
 
 I remember the experience very clearly.  If you can imagine the last time you were excessively tired and had the good fortune of being able to jump into a comfortable bed and immediately pass out, that brief moment of euphoric fulfillment is the feeling.  But instead of being a brief moment, I was able to teeter between that feeling over and over again for next few hours.
