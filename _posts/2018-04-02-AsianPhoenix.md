@@ -14,7 +14,7 @@ I had nothing to lose at that point.  I recognized that my mundane existence of 
 
 Well here I am, two years later and in a completely different state of mind.  I had already gotten over my depression in between the waiting period, but this trip has further helped me realize more about my version of Truth.  But it's not easy.  I can already feel myself slipping back to my old habits as the days wind down.  I'm finding the path of least resistance to run to, which means sleeping in fluffy comfortable beds late into the day and staying up late into the night surfing absolutely meaningless bits of information online.
 
-My girlfriend is starting to contact me more as the excitement of me coming home and our pending trip to Europe starts materializing.  My inbox is filling up with messages from family and friends containing safety wishes and joy of me coming home.  They're all really nice and I'm happy so many people care and think of me.  But it also turns my attention to the impending end of this surreal experience.  
+My inbox is filling up with messages from family and friends containing safety wishes and joy of me coming home.  They're all really nice and I'm happy so many people care and think of me.  But it also turns my attention to the impending end of this surreal experience.  
 
 As I recap on what I've done and things I've yet to do, the conflicting intersection of emotions can sometimes overwhelm.  I have a bit over a week left and I think this is an important time to really self reflect.  
 
@@ -24,4 +24,4 @@ But it happens.  The other day I met two guys from Finland who've been traveling
 
 And that's also partially why I've become a bipolar mess the past few days.  I know my Asia trip is coming to an end.  I have regrets for missing on some experiences.  But I also realize these regrets are irrational ideals, because at that moment, I weighed all options and chose the presumably best one.  I have a glimpse of what awaits me at home, and the responsibility of taxes, other people's problems and the reality of suffering is stirring up anxieties.
 
-But this too shall pass and I know when I see my girlfriend and family next week, life will take on a new form and I'll be motivated with new emotions.  This chapter of my life will be locked away, re-visted in times of need, forever.
+But this too shall pass and I know when I see everyone again next week, life will take on a new form and I'll be motivated with new emotions.  This chapter of my life will be locked away, re-visted in times of need, forever.
