@@ -10,4 +10,4 @@ The buildings are megalithic and rich in history.  Some buildings have weathered
 
 I'm excited for the days to come and I have a feeling my stories will quickly accumulate here.
 
-![Euro]({{ site.url }}/img/euro.jpg)
+![Euro]({{ site.url }}/img/euro1.jpg)
