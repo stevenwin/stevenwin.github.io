@@ -13,9 +13,11 @@ paginate: 5
 
 navigation:
  - title: Home
-   url: 
+   url: /
  - title: About
    url: /about
+
+excerpt_separator: "\n\n"
 
 social:
    github: 
