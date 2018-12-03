@@ -11,6 +11,7 @@ title: StevenWin
         <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
         <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
         <p>{% if post.description %}{{ post.description }}{% else %}{{ post.excerpt | strip_html }}{% endif %}</p>
+        <p>{% if post.excerpt != post.content %}<a href="{{ site.url }}{{ post.url }}">Read more</a>{% endif %}</p>
       </li>
     {% endfor %}
   </ul>
