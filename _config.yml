@@ -17,7 +17,7 @@ navigation:
  - title: About
    url: /about
 
-excerpt_separator: "\n\n"
+excerpt_separator: "\n"
 
 social:
    github: 
