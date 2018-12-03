@@ -1,0 +1,27 @@
+---
+layout: post
+tag: travel
+title: Countdown of the Asian Phoenix
+---
+
+There's often the cliche of finding oneself in scenarios where people voluntarily venture away from home for months at a time.  It usually happens during one of two scenarios: a person's adolescence when they've yet to formulate a sense of purpose or during a time of complete chaos in one's life.
+
+I fall into the latter camp.  Without going into details, the depth of my despair started towards the end of 2013 and was fully realized by the middle of 2015.  I hit rock bottom was in the deepest depression I've ever known, but I didn't know it was depression.  I completely shelled up from the world and was basically going through the motions of life without really feeling much from my every day interactions.  I was in a relationship at the time, which I was in the midst of fully neglecting.  Broken promises, irrational anger outbreaks, shouting matches, on and on.  I felt disgusted with myself and just wanted the world to forget about me so that I wouldn't have to deal with any extra responsibilities since getting out of bed was already more effort that I could have imagined.
+
+An event happened on a fateful day in 2015, which made me impulsively put in a request to work for an 8-month leave of absence.  I had already been thinking about this years ago as it's a gigantic perk for working at my company.  As long as your manager and the senior manager approves, employees can leave for up to a year and come back to their original job.  That's such an amazing opportunity and surprisingly, not very many people take advantage of it.  I was one of them.  I wanted to do it, but obligations like paying the bills or saving up for future mega-purchases always kept me back.  I suppose that's a small reflection of the world at large.  Comfort and security is paralyzing at times.
+
+I had nothing to lose at that point.  I recognized that my mundane existence of predictability was not helping my depression.  I needed real change, real uncertainty about my future movements to kick me out of whatever was going on inside my mind.  At best it'll work and I'll be better than I am, at worst I'll be in the same state.  No brainer.
+
+Well here I am, two years later and in a completely different state of mind.  I had already gotten over my depression in between the waiting period, but this trip has further helped me realize more about my version of Truth.  But it's not easy.  I can already feel myself slipping back to my old habits as the days wind down.  I'm finding the path of least resistance to run to, which means sleeping in fluffy comfortable beds late into the day and staying up late into the night surfing absolutely meaningless bits of information online.
+
+My inbox is filling up with messages from family and friends containing safety wishes and joy of me coming home.  They're all really nice and I'm happy so many people care and think of me.  But it also turns my attention to the impending end of this surreal experience.  
+
+As I recap on what I've done and things I've yet to do, the conflicting intersection of emotions can sometimes overwhelm.  I have a bit over a week left and I think this is an important time to really self reflect.  
+
+What have I experienced?  What have I learned?  Who did I meet?  What do I remember most?  3 months away in solitude is more than a lot of people can ask for and I'd be doing myself and everyone who wants the best for me great disservice if I weren't able to answer these questions.  
+
+But it happens.  The other day I met two guys from Finland who've been traveling together for over 5 months.  They have four more months to go but I can see they've long since forgotten about the beautiful nature of travel and have stopped asking themselves these questions.  I know because I asked them.  And they didn't know.  After a while, they admitted that they don't even have conversations among themselves anymore.  They're just going through the motions of travel.  The spectacular has now become the norm.  And I think I can relate.  After two and half months, when I reached Chiang Mai, I felt the same.  I was tired of the terminal security checks.  I was tired of having temporary connections with people, only to have them disappear into their own thread of existence.  I was tired of venturing into unique and interesting landscapes only to have my inner voice to converse with.  In short, I was getting tired of travel and impermanence and was ready to come home.  I think like everything, there's a point of diminishing returns and travel is no different.  The spectacular eventually becomes the norm.
+
+And that's also partially why I've become a bipolar mess the past few days.  I know my Asia trip is coming to an end.  I have regrets for missing on some experiences.  But I also realize these regrets are irrational ideals, because at that moment, I weighed all options and chose the presumably best one.  I have a glimpse of what awaits me at home, and the responsibility of taxes, other people's problems and the reality of suffering is stirring up anxieties.
+
+But this too shall pass and I know when I see everyone again next week, life will take on a new form and I'll be motivated with new emotions.  This chapter of my life will be locked away, re-visted in times of need, forever.
