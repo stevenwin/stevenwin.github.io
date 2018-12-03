@@ -1,7 +1,7 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: StevenWin
+description: Personal Ramblings
 
-url: http://brianmaierjr.github.com/long-haul
+url: http://www.stevenwin.com
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -13,16 +13,26 @@ paginate: 5
 
 navigation:
  - title: Home
-   url: /index.html
+   url: 
  - title: About
    url: /about
- - title: Contact
-   url: /contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   github: 
+   twitter: 
+   facebook: 
+   email: steven.win@outlook.com
 
-google_analytics: "UA-58263416-1"
+google_analytics: #"UA-42859700-3"
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+ - Gemfile
+ - Gemfile.lock
+ - node_modules
+ - vendor/bundle/
+ - vendor/cache/
+ - vendor/gems/
+ - vendor/ruby/
