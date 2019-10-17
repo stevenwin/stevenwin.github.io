@@ -4,7 +4,7 @@ title: Archive
 ---
 
 <div id="articles">
-  <h1>Archives</h1>
+  <h1>Articles</h1>
   <ul class="posts noList">
     {% for post in site.posts %}
       <li>

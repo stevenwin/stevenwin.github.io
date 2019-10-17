@@ -16,8 +16,6 @@ navigation:
    url: /
  - title: About
    url: /about
- - title: Archives
-   url: /archives
 
 excerpt_separator: "\n"
 
